@@ -1,0 +1,24 @@
+1) Inside a project, quality assurance is necessary to avoid maintenance costs that could 
+be resolved even before launch. Another important quality assurance factor in a project 
+is ensuring that it will work correctly on all devices.
+
+2) Will be necessary 25 trucks to unload 125 m³ of sand in 5 hours
+
+3) In that toy, an important factor to understand his funcionality is : the red shapes need to get inside 
+in the correct holes. Knowing this, a test need to be done in the shapes watching if have any trouble 
+
+4) In the first moment, I will tell you the ingredients of the recipe: 1 spaghetti type 
+noodle package, 1 garlic chopped, 1 onion chopped, 2 spoons of oil and salt and 2 tomato 
+sauce packages. Now, full a pan with water and wait, when boil add the oil. 
+Place the noodle and wait to cook well. Now remove the water and place the garlic, 
+the onion, salt and the tomato sauces.
+
+5) For a good bug report, the developer need to understand all the ticket and 
+can know where is the problem, why the bug is there and the expected result for that 
+part of the code.
+
+6)
+1)if the user can login without problems, testing a wrong password or a invalid username.
+2)if the user can see the products list without troubles, using search tools or only scrolling down.
+3)if the user can write a review without problems, testing the character limit and view if the review have been posted.
+4)if the user can view reviews and come back to the product without troubles.
